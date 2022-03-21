@@ -1,0 +1,11 @@
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.exe.config
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.exe
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\bin\Debug\Collatz Conjecture.pdb
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.AssemblyReference.cache
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.Form1.resources
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz_Conjecture.Properties.Resources.resources
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.GenerateResource.cache
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.exe
+C:\Users\Stefano\OneDrive\Documenti\Projects\C#\Collatz Conjecture\Collatz Conjecture\Collatz Conjecture\obj\Debug\Collatz Conjecture.pdb
